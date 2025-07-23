@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Hi 👋, I'm Siddhant Bhujbal</h1>
-      <p>A passionate frontend developer from India, passionate about building interactive web applications, solving complex problems, and continuously learning new technologies.</p>
+      <p>A passionate Software developer from India, passionate about building interactive web applications, solving complex problems, and continuously learning new technologies.</p>
     </td>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -13,7 +13,7 @@
 ---
 
 ## 💡 About Me  
-- 🔥 Passionate about crafting seamless **frontend experiences** & building robust **full-stack solutions**.  
+- 🔥 Passionate about crafting seamless **frontend experiences** & building robust **Backend solutions** using Java.  
 - 🏆 Former **Associate Software Engineer at BETSOL**, enhancing UI/UX & backend efficiency.  
 - 🌱 Exploring **Spring Boot** & **AI Agents Development**.  
 - 💪 Chess Master ♟️ | State Karate Champion 🥋 | Problem Solver 💡  
